@@ -1,0 +1,4 @@
+[submodule "deps/child"]
+	path = deps/child
+	url = https://github.com/tencent-bkc/bkm-b-4498659ca7814326bf4db7-clone-modes-18bbf2.git
+	branch = bkm-b-16c7f2209ecb45c686-submodule-22552e-child
